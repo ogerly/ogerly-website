@@ -1,0 +1,11 @@
+[
+    {
+      "id": 1,
+      "name": "example-repo",
+      "description": "This is a placeholder repository until GitHub Actions updates the data",
+      "html_url": "https://github.com/ogerly/example-repo",
+      "language": "JavaScript",
+      "stargazers_count": 0,
+      "forks_count": 0
+    }
+  ]
